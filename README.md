@@ -1,5 +1,7 @@
 README
 
+This project is originally from [BU CS591 L1 (Data Machanics)](https://github.com/Data-Mechanics/course-2016-fal-proj)
+
 First start the mongoDB with command mongod -- auth --dbpath “YOUR DB PATH” first navigate to the directory ll0406_siboz on terminal or command line.
 The algorithm of this Project is divided to four parts:
 
